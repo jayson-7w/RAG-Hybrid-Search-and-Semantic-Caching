@@ -7,10 +7,7 @@ This repository contains an application application using Qdrant as Vector Datab
 
 For detailed project descriptions, refer to these Medium blogs:
 
-- [Part 1](https://medium.com/@benitomartin/balancing-accuracy-and-speed-with-qdrant-hyperparameters-hydrid-search-and-semantic-caching-part-84b26037e594)
 
-- [Part 2](https://medium.com/@benitomartin/balancing-accuracy-and-speed-with-qdrant-hyperparameters-hydrid-search-and-semantic-caching-part-285e29135673)
-  
 ## Tech Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
