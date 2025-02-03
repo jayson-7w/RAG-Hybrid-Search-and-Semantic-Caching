@@ -1,0 +1,8 @@
+fastembed-gpu
+qdrant-client
+python-dotenv
+pandas
+
+transformers 
+
+torch
